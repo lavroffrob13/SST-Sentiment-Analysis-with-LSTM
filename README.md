@@ -1,6 +1,6 @@
 # SST-Sentiment-Analysis-with-LSTM
 
-To run the code, cd into the directory where it is saved and enter "python hw4.py" into your command prompt. To install all necessary dependencies before running the code, input the following:
+To run the code, cd into the directory where it is saved and enter "python sst.py" into your command prompt. To install all necessary dependencies before running the code, input the following:
 pip install nltk
 pip install torchtext
 pip install spacy
